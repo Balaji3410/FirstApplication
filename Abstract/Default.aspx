@@ -7,7 +7,7 @@
     <body>
         <div ng-app="myapp" ng-controller="mycontr">
 
-            <h1>Calculation is {{10+40}}</h1>
+            <h1>Calculation is {{60+40}}</h1>
             <p>Name : <input type="text" ng-model="Name" /></p>            
             <p>Hello <span ng-bind="Name"></span></p>
 
