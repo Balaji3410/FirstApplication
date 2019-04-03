@@ -4,3 +4,6 @@ c:\users\dbalaji\documents\visual studio 2015\Projects\Abstract\Abstract\bin\Deb
 c:\users\dbalaji\documents\visual studio 2015\Projects\Abstract\Abstract\obj\Debug\Abstract.csprojResolveAssemblyReference.cache
 c:\users\dbalaji\documents\visual studio 2015\Projects\Abstract\Abstract\obj\Debug\Abstract.exe
 c:\users\dbalaji\documents\visual studio 2015\Projects\Abstract\Abstract\obj\Debug\Abstract.pdb
+D:\Github\Abstract\Abstract\bin\Debug\Abstract.exe.config
+D:\Github\Abstract\Abstract\obj\Debug\Abstract.exe
+D:\Github\Abstract\Abstract\obj\Debug\Abstract.pdb
