@@ -40,7 +40,7 @@
         <script>
             var app = angular.module('myapp', []);
             app.controller('mycontr', function ($scope) {
-                $scope.fname = "Balaji3410";
+                $scope.fname = "Balaji341";
                 $scope.lname = "Dasari";
             });
         </script>
